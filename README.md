@@ -10,7 +10,7 @@ This repository contains the code for predicting hotel booking cancellations. Th
 - **Null Handling**: Null columns are dropped, and missing values are treated appropriately.
 
 ### 2. Inferential Statistics
-- **Mann-Whitney U Test**: A non-parametric statistical test is applied to check for significant differences between independent variables (e.g., comparing canceled and non-canceled bookings).
+- **Mann-Whitney U Test**: A non-parametric statistical test is applied to check for significant differences between independent variables.
   
 ### 3. Feature Engineering
 - Features are engineered to improve model performance by creating new attributes, handling categorical data, and normalizing or scaling numerical values as needed.
