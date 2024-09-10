@@ -52,8 +52,4 @@ This repository contains the code for predicting hotel booking cancellations. Th
 - The final model achieves high accuracy and recall in predicting cancellations, making it suitable for deployment.
 - A user-friendly interface using Gradio allows for real-time predictions.
 
-## License
 
-This project is licensed under the MIT License.
-
-Feel free to contribute to the project or suggest improvements!
