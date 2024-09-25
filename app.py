@@ -15,7 +15,7 @@ def prediction(input_data):
         return f"This is booking is less likely to get canceled: Chances={round(pred,2)}"
     
 def main():
-    st.image('INNHotel',use_column_width=True)
+    
     st.title("INN Hotels")
 
     lead_time=st.number_input("Enter Lead Time")
